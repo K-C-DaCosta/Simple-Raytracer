@@ -1,7 +1,7 @@
 # A simple raytracer written in C
 - first bounce 
 - multithreaded using pthread library
-- has texturmapping 
+- has texture mapping
 - basic blin-phong shading 
 
 # Dependencies 
