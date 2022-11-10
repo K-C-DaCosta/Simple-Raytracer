@@ -1,8 +1,8 @@
 #include <stdio.h> 
 #include <stdlib.h>
-#include "../include/bst.h"
-#include "../include/stack.h"
-#include "../include/queue.h"
+#include <bst.h>
+#include <stack.h>
+#include <queue.h>
 
 const int LEFT = 0;
 const int RIGHT = 1;

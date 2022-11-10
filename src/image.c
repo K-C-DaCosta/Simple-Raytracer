@@ -1,7 +1,7 @@
-#include "../include/image.h"
+#include <image.h>
 #include <IL/il.h>
-#include "../include/macro_util.h"
-#include "../include/basic_math_util.h"
+#include <macro_util.h>
+#include <basic_math_util.h>
 
 
 

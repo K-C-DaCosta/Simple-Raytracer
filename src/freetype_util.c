@@ -1,5 +1,5 @@
-#include "../include/freetype_util.h"
-#include "../include/macro_util.h"
+#include <freetype_util.h>
+#include <macro_util.h>
 
 int ftuLoadFont(FT_Library *L, FT_Face *F,SDL_Window *win){
 	uint32_t error = FT_New_Face(*L,"./bin/GotischeMissalschrift.ttf",0,F);

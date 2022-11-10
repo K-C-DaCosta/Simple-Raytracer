@@ -1,6 +1,6 @@
-#include "../include/sphere.h"
-#include "../include/macro_util.h"
-#include "../include/basic_math_util.h"
+#include <sphere.h>
+#include <macro_util.h>
+#include <basic_math_util.h>
 
 float sphereRayIntersectionTest(Vec4 *ray,Vec4 *e,Sphere *sphere){
     Vec4  ec,

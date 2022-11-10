@@ -1,6 +1,6 @@
 #include <math.h>
-#include "../include/vector.h"
-#include "../include/matrix.h"
+#include <vector.h>
+#include <matrix.h>
 
 #ifndef _BASIC_MATH_UTIL_H_
 #define _BASIC_MATH_UTIL_H_

@@ -1,5 +1,5 @@
-#include "../include/vector.h"
-#include "../include/macro_util.h"
+#include <vector.h>
+#include <macro_util.h>
 
 Vec2* v2NVP(float x,float y){
 	Vec2* v = malloc(sizeof(Vec2));

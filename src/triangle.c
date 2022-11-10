@@ -1,5 +1,5 @@
-#include "../include/triangle.h"
-#include "../include/macro_util.h"
+#include <triangle.h>
+#include <macro_util.h>
 #include <math.h>
 
 #define _TRM(M,a,b,c,d,e)(M[a]*(M[b]*M[c]-M[d]*M[e]))

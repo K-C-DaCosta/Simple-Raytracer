@@ -1,6 +1,6 @@
-#include "../include/object.h"
-#include "../include/triangle.h"
-#include "../include/sphere.h"
+#include <object.h>
+#include <triangle.h>
+#include <sphere.h>
 
 inline Object * objectGetNearest(SimpleArrayList *objectList, Vec4* ray , Vec4 * E, float *tmin_ret){
 	//returns the closest insersecting 'object'

@@ -2,7 +2,7 @@
 #include <math.h>
 #include <stdint.h>
 #include <stdlib.h>
-#include <xmmintrin.h>
+//#include <xmmintrin.h>
 
 #ifndef VECTOR_H
 #define VECTOR_H

@@ -1,6 +1,6 @@
-#include "../include/vector.h"
-#include "../include/object.h"
-#include "../include/image.h"
+#include <vector.h>
+#include <object.h>
+#include <image.h>
 
 #ifndef SPHERE_H_
 #define SPHERE_H_

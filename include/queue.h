@@ -1,4 +1,4 @@
-#include "../include/node.h"
+#include <node.h>
 
 #ifndef _QUEUE_H_
 #define _QUEUE_H_

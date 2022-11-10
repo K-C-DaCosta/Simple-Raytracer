@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "basic_math_util.h": "c",
+        "object.h": "c",
+        "image.h": "c"
+    },
+    "C_Cpp.default.includePath": [
+        "include",
+        "/usr/include/freetype2"
+    ]
+}

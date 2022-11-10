@@ -1,7 +1,7 @@
 #ifndef _MATRIX_H_
 #define _MATRIX_H_
 
-#include "../include/vector.h"
+#include <vector.h>
 
 
 typedef struct MAT4_4_{

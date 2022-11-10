@@ -1,5 +1,5 @@
-#include "../include/basic_math_util.h"
-#include "../include/macro_util.h"
+#include <basic_math_util.h>
+#include <macro_util.h>
 
 void bmuSolveQuadratic(float A,float B, float C,float t[2]){
 	const float THRESHOLD  = 0.01f;

@@ -1,5 +1,5 @@
-#include "../include/matrix.h"
-#include "../include/macro_util.h"
+#include <matrix.h>
+#include <macro_util.h>
 #include <stdio.h>
 #include <string.h>
 

@@ -1,5 +1,5 @@
-#include "../include/raster_util.h"
-#include "../include/macro_util.h"
+#include <raster_util.h>
+#include <macro_util.h>
 
 //rasterizes a line in a w by h buffer
 void ruRasterLine(uint32_t *buffer,int w,int h,Vec2 va,Vec2 vb){

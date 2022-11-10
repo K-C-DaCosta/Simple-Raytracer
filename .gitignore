@@ -1,1 +1,3 @@
-/obj
+/obj/*
+# to make sure the obj directory gets included when this project is cloned
+!/obj/.stub

@@ -1,6 +1,6 @@
 #include <stdint.h>
 #include <SDL2/SDL.h>
-#include "../include/vector.h"
+#include <vector.h>
 
 #ifndef  IMAGE_H_
 #define  IMAGE_H_

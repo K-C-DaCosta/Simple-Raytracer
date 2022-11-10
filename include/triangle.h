@@ -1,7 +1,7 @@
 #include <stdbool.h>
-#include "../include/object.h"
-#include "../include/vector.h"
-#include "../include/image.h"
+#include <object.h>
+#include <vector.h>
+#include <image.h>
 
 
 #ifndef _TRIANGLE_H_

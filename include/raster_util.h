@@ -1,5 +1,5 @@
 
-#include "../include/vector.h"
+#include <vector.h>
 
 #ifndef _RASTER_UTIL_H_
 #define _RASTER_UTIL_H_

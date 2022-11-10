@@ -11,14 +11,15 @@
 #include <IL/il.h>
 #include <IL/ilu.h>
 
-#include "../include/basic_math_util.h"
-#include "../include/object.h"
-#include "../include/matrix.h"
-#include "../include/vector.h"
-#include "../include/macro_util.h"
-#include "../include/triangle.h"
-#include "../include/sphere.h"
-#include "../include/simple_array_list.h"
+
+#include <basic_math_util.h>
+#include <object.h>
+#include <matrix.h>
+#include <vector.h>
+#include <macro_util.h>
+#include <triangle.h>
+#include <sphere.h>
+#include <simple_array_list.h>
 
 #include FT_FREETYPE_H
 

@@ -1,5 +1,5 @@
-#include "../include/vector.h"
-#include "../include/simple_array_list.h"
+#include <vector.h>
+#include <simple_array_list.h>
 
 #ifndef _OBJECT_H_
 #define _OBJECT_H_
